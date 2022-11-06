@@ -2,4 +2,8 @@
 
 git clone https://github.com/jobiryasir/onlyokids
 
-Cd
+
+
+Cd onlyokids
+
+python Okids.py

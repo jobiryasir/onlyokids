@@ -21,6 +21,7 @@ Cd onlyokids
 
 python Okids.py
 
-
+#### NOTE
+    This tool is Free.So, You need not get aproval 
 
 ## THANKS FOR VISIT ✘✘

@@ -211,8 +211,7 @@ logo ="""
 \033[1;97m[+]\033[1;91m    FACEBOOK \033[1;90m: \033[1;92mJOBIR YASIR
 \033[1;97m[+]\033[1;91m    WHATSAPP \033[1;90m: \033[1;92m+88019******
 \033[1;97m====================================================
-\x1b[31;1m   \x1b[47;2m[ THIS TOOL IS FREE ]\x1b[00;1m\x1b[31;1m \x1b[31;1m \x1b[47;2m[ POWERED BY JOBIR YASIR ]\x1b[00;1m\x1b[31;1m
-\033[1;97m===================================================="""
+       """
 clear()
 os.system("xdg-open https://www.facebook.com/jobiryasir16")
 xxxx = str(len(ugen))
